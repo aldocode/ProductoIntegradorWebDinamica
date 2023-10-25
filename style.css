@@ -1,0 +1,42 @@
+.title {
+  text-align: center;
+  margin-top: 25px;
+}
+
+.form {
+  margin: auto;
+  max-width: 400px;
+  text-align: center;
+}
+
+input[type="submit"],
+button,
+[aria-label] {
+  cursor: pointer;
+}
+#edit-box {
+  display: none;
+  max-width: 80%;
+  margin: auto;
+  margin-top: 10px;
+}
+
+td {
+  background-color: aliceblue;
+  padding-right: 10px;
+  text-align: left;
+}
+
+.to-do {
+  background: transparent !important;
+}
+
+body {
+  background: linear-gradient(to bottom, #e075f3, #e3cce0);
+  background-attachment: fixed; /* Esto puede ayudar a evitar problemas de corte en algunos navegadores */
+  background-size: cover; /* Esto asegura que el fondo se ajuste a la ventana del navegador */
+}
+
+h1 {
+  color: white;
+}
