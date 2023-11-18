@@ -32,7 +32,7 @@ td {
 }
 
 body {
-  background: linear-gradient(to bottom, #e075f3, #e3cce0);
+  background: linear-gradient(to bottom, #759df3, #ecb8e5);
   background-attachment: fixed; /* Esto puede ayudar a evitar problemas de corte en algunos navegadores */
   background-size: cover; /* Esto asegura que el fondo se ajuste a la ventana del navegador */
 }
